@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Burger",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Pizza ",
+      "color": "yellow"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Sandwich",
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Milk",
+      "color": "red"
+    }
+  ]
+}
